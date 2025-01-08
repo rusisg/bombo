@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	Counter()
+	// Counter() We dont need another Counter!
 	
 	fmt.Println("HELLO WORLD")
 
